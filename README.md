@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amankishore1912
 - 👀 I’m interested in ... Developing Apps
-- 🌱 I’m currently learning ... Android App Development 
+- I'm currently working on DSA in Java Language.
 
 
 <!---
